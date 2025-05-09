@@ -1,0 +1,10 @@
+# container{num}/.gitignore
+# .gitignore
+
+
+# ... other entries ...
+
+# Environment variables
+.env
+*.env
+
